@@ -57,3 +57,8 @@ this application, I also made some cool animations with Framer Motion to make ap
 
 **Repo Name**: ahmedtarekwork/cv-builder <br />
 **Live Preview**: https://ahmed-cv-builder.vercel.app
+
+# Contact Info
+
+- **whatsapp or phone calls**: 01284059026
+- **gmail**: ahmedtareka777@gmail.com
