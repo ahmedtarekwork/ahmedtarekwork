@@ -17,7 +17,7 @@ I’m dedicated to continuous learning and applying new technologies to ensure t
 
 - <img width="55" alt="Bootstrap Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871435720?alt=media&token=5e1ecf20-b431-48fc-987d-dc5453dad3d0" align="center"/> Bootstrap
 
-- <img width="55" alt="Tailwind Css Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871425931?alt=media&token=0edbc64a-06eb-4aa8-8e20-6275f837ed4f" align="center"/> Tailwind Css
+- <img width="55" alt="Tailwind Css Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871425931?alt=media&token=0edbc64a-06eb-4aa8-8e20-6275f837ed4f" align="center"/> Tailwind CSS
 
 - <img width="55" alt="Shadcn UI Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2FUwAfuEXacGImhUFDIkeo9?alt=media&token=d4dfa9bd-6222-4042-a1c1-c3515638c41c" align="center"/> Shadcn UI
 
