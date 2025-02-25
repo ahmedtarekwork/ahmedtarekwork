@@ -1,6 +1,6 @@
 # About Me
 
-I’m Ahmed Tarek, a passionate Frontend React.js Web Developer from Alexandria, Egypt, <br />
+I’m Ahmed Tarek, a passionate Frontend React.js Web Developer from Egypt, <br />
 I’m dedicated to continuous learning and applying new technologies to ensure the success of my future projects. My commitment to my craft extends beyond my studies as I strive to bring innovation and quality to the forefront of my work.
 
 # Skills
