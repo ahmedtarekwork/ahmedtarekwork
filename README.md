@@ -27,7 +27,7 @@ I’m dedicated to continuous learning and applying new technologies to ensure t
 
 - <img width="55" alt="Redux Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871477551?alt=media&token=9c401b9c-fd28-40c4-88e0-d433b6f4c09e" align="center"/> Redux Toolkit
 
-- <img width="55" alt="GraphQL Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F8m4WM6WWfQl43fnqtkGc0?alt=media&token=8afbd424-7ce7-422d-b5c3-566388a107b0" align="center"/> GraphQL Toolkit
+- <img width="55" alt="GraphQL Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F8m4WM6WWfQl43fnqtkGc0?alt=media&token=8afbd424-7ce7-422d-b5c3-566388a107b0" align="center"/> GraphQL (mutations and queries only)
 
 - <img width="55" alt="Firebase Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722875233094?alt=media&token=5566ba50-f628-42c3-ac11-3896648bb37d" align="center"/> Firebase
 
