@@ -4,61 +4,8 @@ I’m Ahmed Tarek, a passionate Frontend React.js Web Developer from Egypt, <br 
 I’m dedicated to continuous learning and applying new technologies to ensure the success of my future projects. My commitment to my craft extends beyond my studies as I strive to bring innovation and quality to the forefront of my work.
 
 # Skills
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="HTML Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722357739686?alt=media&token=47ee3561-a451-4ec3-ac96-f5603eec7bbf" align="center"/>
-    <p>HTML</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="CSS Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871389295?alt=media&token=66a854e3-ae9e-4dbb-b610-181cb5c9ef23" align="center"/>
-    <p>CSS</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="Javascript Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871405233?alt=media&token=6c321036-8b81-4f2c-9921-d3b84b81d795" align="center"/>
-    <p>Javascript</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="Typescipt Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871450188?alt=media&token=6326d4cb-a4ab-4d3f-a5b6-d9d45a1bbd8d" align="center"/>
-    <p>Typescipt</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="SCSS Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871415082?alt=media&token=0d81bf9e-7ba3-441f-be6e-2ad6788a5c74" align="center"/>
-    <p>SCSS</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="Bootstrap Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871435720?alt=media&token=5e1ecf20-b431-48fc-987d-dc5453dad3d0" align="center"/>
-    <p>Bootstrap</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="Tailwind Css Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871425931?alt=media&token=0edbc64a-06eb-4aa8-8e20-6275f837ed4f" align="center"/>
-    <p>Tailwind CSS</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="Shadcn UI Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2FUwAfuEXacGImhUFDIkeo9?alt=media&token=d4dfa9bd-6222-4042-a1c1-c3515638c41c" align="center"/>
-    <p>Shadcn UI</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="React.js Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871458567?alt=media&token=f44dd0d6-8242-4560-af55-d8238c966bbe" align="center"/>
-    <p>React.js</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="Nextjs Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722875244872?alt=media&token=2dbb0f9a-3c5c-4f05-bfc3-248c2b5fcf3c" align="center"/>
-    <p>Nextjs</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="Redux Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871477551?alt=media&token=9c401b9c-fd28-40c4-88e0-d433b6f4c09e" align="center"/>
-    <p>Redux Toolkit</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="GraphQL Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F8m4WM6WWfQl43fnqtkGc0?alt=media&token=8afbd424-7ce7-422d-b5c3-566388a107b0" align="center"/>
-    <p>GraphQL (mutations and queries only)</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="Firebase Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722875233094?alt=media&token=5566ba50-f628-42c3-ac11-3896648bb37d" align="center"/>
-    <p>Firebase</p>
-  </div>
-    <div style="text-align: center; margin: 10px;">
-    <img width="55" alt="Tanstack React Query Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871506362?alt=media&token=5dc8e5d1-591f-488d-aabf-7d33
+<img width="55" alt="HTML Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722357739686?alt=media&token=47ee3561-a451-4ec3-ac96-f5603eec7bbf" align="center"/> <img width="55" alt="CSS Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871389295?alt=media&token=66a854e3-ae9e-4dbb-b610-181cb5c9ef23" align="center"/> <img width="55" alt="Javascript Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871405233?alt=media&token=6c321036-8b81-4f2c-9921-d3b84b81d795" align="center"/> <img width="55" alt="Typescipt Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871450188?alt=media&token=6326d4cb-a4ab-4d3f-a5b6-d9d45a1bbd8d" align="center"/> <img width="55" alt="SCSS Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871415082?alt=media&token=0d81bf9e-7ba3-441f-be6e-2ad6788a5c74" align="center"/> <img width="55" alt="Bootstrap Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871435720?alt=media&token=5e1ecf20-b431-48fc-987d-dc5453dad3d0" align="center"/> <img width="55" alt="Tailwind Css Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871425931?alt=media&token=0edbc64a-06eb-4aa8-8e20-6275f837ed4f" align="center"/> <img width="55" alt="Shadcn UI Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2FUwAfuEXacGImhUFDIkeo9?alt=media&token=d4dfa9bd-6222-4042-a1c1-c3515638c41c" align="center"/> <img width="55" alt="React.js Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871458567?alt=media&token=f44dd0d6-8242-4560-af55-d8238c966bbe" align="center"/> <img width="55" alt="Nextjs Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722875244872?alt=media&token=2dbb0f9a-3c5c-4f05-bfc3-248c2b5fcf3c" align="center"/> <img width="55" alt="Redux Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722871477551?alt=media&token=9c401b9c-fd28-40c4-88e0-d433b6f4c09e" align="center"/> <img width="55" alt="GraphQL Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F8m4WM6WWfQl43fnqtkGc0?alt=media&token=8afbd424-7ce7-422d-b5c3-566388a107b0" align="center"/> <img width="55" alt="Firebase Logo" src="https://firebasestorage.googleapis.com/v0/b/my-profile-16b58.appspot.com/o/technologiesIcons%2F1722875233094?alt=media&token=5566ba50-f628-42c3-ac11-3896648bb37d" align="center"/> 
+
 # Some of my projects
 
 ## E-commerce With Dashboard
